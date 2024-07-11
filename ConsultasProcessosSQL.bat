@@ -1,0 +1,1 @@
+py C:\BI Jurídico\ConsultasSQL.py
